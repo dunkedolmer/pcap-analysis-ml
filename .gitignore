@@ -1,0 +1,33 @@
+# # Byte-compiled files
+# __pycache__/
+# *.py[cod]
+# *.pyo
+
+# # Virtual environments
+# venv/
+
+# # Datasets
+# data/
+
+# # Model files
+# models/
+# !models/**/*.md
+
+# # Reports
+# reports/
+
+# # Temporary files
+# *.tmp
+# *.temp
+# *.bak
+# *.swp
+
+# # Operating system files
+# .DS_Store
+# Thumbs.db
+
+# # Environment and dependency files
+# *.env
+# .envrc
+# *.yml.lock
+# pip-wheel-metadata/
